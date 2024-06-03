@@ -97,7 +97,7 @@
       ".vscode": true
       // "node_modules": true
     },
-    "workbench.iconTheme": "symbols",
+    "workbench.iconTheme": "vscode-icons",
     "update.mode": "start",
     "terminal.integrated.gpuAcceleration": "off",
     "terminal.integrated.defaultProfile.osx": "fish",
